@@ -8,6 +8,7 @@
 frontend/node_modules/
 frontend/dist/
 frontend/.vite/
+frontend/.env
 frontend/.env.*
 frontend/npm-debug.log*
 frontend/yarn-debug.log*
@@ -18,6 +19,7 @@ pnpm-debug.log*
 # BACKEND (Django)
 # ******************************
 backend/**/__pycache__/
+backend/.env
 backend/.env.*
 backend/venv/
 backend/.venv/
